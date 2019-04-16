@@ -1,0 +1,9 @@
+Old Fashioned
+Attributes:
+	Cocktail_Name: Old Fashioned
+	Price: $12.00
+	Is_On_Happy_Hour: false
+Methods:
+	Get_Name: Waiter tells customer drink is called Old Fashioned
+	Get_Price: Waiter tells customer Old Fashioned is $12.00
+	Get_Happy_Hour: Waiter tells customer Old Fashioned is not on happy hour
