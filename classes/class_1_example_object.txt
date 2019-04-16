@@ -1,0 +1,9 @@
+Chips and Salsa
+Attributes:
+	Item_Name: Chips and Salsa
+	Price: $4.99
+	Vegetarian: true
+Methods:
+	Deliver_Item: Waiter delivers Chips and Salsa to customer
+	Get_Price: Waiter tells customer Chips and Salsa is $4.99
+	Is_Vegetarian: Waiter tells the customer Chips and Salsa is vegetarian
