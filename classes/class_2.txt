@@ -1,0 +1,9 @@
+Cocktail
+Attributes:
+	Cocktail_Name (string)
+	Price (float)
+	Is_On_Happy_Hour (boolean)
+Methods:
+	Get_Name (Waiter tells customer Cocktail_Name)
+	Get_Price (Waiter tells customer Price of Cocktail_Name)
+	Get_Happy_Hour (Waiter tells customer if Cocktail_Name Is_On_Happy_Hour)
