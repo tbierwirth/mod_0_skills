@@ -1,9 +1,9 @@
 Food
 Attributes:
-	Appetizer (string)
+	Item_Name (string)
 	Price (float)
 	Vegetarian (boolean)
 Methods:
-	Deliver_Appetizer (Waiter delivers Appetizer to customer)
+	Deliver_Item (Waiter delivers Item_Name to customer)
 	Get_Price (Waiter tells customer Price of an item)
 	Is_Vegetarian (Waiter tells the customer if an item is vegetarian or not)
