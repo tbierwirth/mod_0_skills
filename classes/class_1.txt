@@ -5,5 +5,5 @@ Attributes:
 	Vegetarian (boolean)
 Methods:
 	Deliver_Item (Waiter delivers Item_Name to customer)
-	Get_Price (Waiter tells customer Price of an item)
-	Is_Vegetarian (Waiter tells the customer if an item is vegetarian or not)
+	Get_Price (Waiter tells customer Item_Name is Price)
+	Is_Vegetarian (Waiter tells the customer if Item_Name is Vegetarian or not)
